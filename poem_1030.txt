@@ -1,0 +1,24 @@
+  1 Once upon a TIME_OF_DAY dreary, while I PAST_TENSE_VERB, weak and weary,
+  2 Over QUANTITY a quaint and curious volume of ADJECTIVE lore—
+  3 While I PAST_TENSE_VERB, nearly napping, ADVERB there came a tapping,
+  4 As of some one ADVERB rapping, rapping at my ROOM_TYPE door.
+  5 "'Tis some NOUN," I muttered, "tapping at my ROOM_TYPE door—
+  6 ADVERB this and QUANTITY more."
+  7 Ah, ADVERB I remember it was in the ADJECTIVE December;
+  8 And each ADJECTIVE dying ember PAST_TENSE_VERB its ghost upon the floor.
+  9 Eagerly I PAST_TENSE_VERB the morrow;—vainly I had VERB to borrow
+ 10 From my books NOUN of sorrow—sorrow for the ADJECTIVE Lenore—
+ 11 For the rare and ADJECTIVE maiden whom the NOUNS name Lenore—
+ 12 ADJECTIVE LOCATION for evermore.
+ 13 And the ADJECTIVE, sad, uncertain rustling of each COLOR curtain
+ 14 Thrilled me—filled me with ADJECTIVE terrors NUMBER_OF_OCCURANCES felt before;
+ 15 So that now, to VERB the beating of my BODY_PART, I stood repeating
+ 16 "'Tis some NOUN entreating entrance at my ROOM_TYPE door—
+ 17 Some late NOUN entreating entrance at my ROOM_TYPE door;—
+ 18 This NOUN is and AJECTIVE more."
+ 19 Presently my BODY_PART grew stronger; VERBING then no longer,
+ 20 "PERSON," said I, "or PERSON, truly your forgiveness I implore;
+ 21 But the fact is PERSON was napping, and so ADVERB you came rapping,
+ 22 And so ADVERB you came tapping, tapping at my ROOM_TYPE door,
+ 23 That I ADVERB was sure I PAST_TENSE_VERB you" —here I opened wide the door;—
+ 24 NOUN there and ADVERB more.
